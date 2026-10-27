@@ -4,7 +4,7 @@ Electronics engineer (BSEE) and manufacturing leader. 20 years at Hewlett-Packar
 
 Today I build **human-approved AI workflows** for supplier quality and small-business operations: the AI drafts, a person decides.
 
-📍 Fremont, CA · ✉️ jonggan.kim@gmail.com · 🌐 [krus-bridge.pages.dev](https://krus-bridge.pages.dev)
+📍 Newark, CA · ✉️ jonggan.kim@gmail.com · 🌐 [vettedkorea.com](https://vettedkorea.com)
 
 ## What I'm building
 
