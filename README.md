@@ -8,7 +8,7 @@ Today I build **human-approved AI workflows** for supplier quality and small-bus
 
 ## What I'm building
 
-### KR–US Bridge · Sourcing Ops Kit *(private, demo on request)*
+### Vetted Korea · Sourcing Ops Kit *(private, demo on request)*
 The operating system behind my buyer-side sourcing and supplier quality service for US hardware companies moving parts to Korean suppliers.
 
 - **Supplier audit form:** 15-item weighted on-site audit (quality system, Cpk and Gauge R&R, change control, lot traceability) with automatic reject on red flags
